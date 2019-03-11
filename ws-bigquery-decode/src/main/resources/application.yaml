@@ -1,0 +1,22 @@
+info:
+  author: Vorobev Anton
+  email: Fire-Blade7@protonmail.com
+  versionDecodeFile: 1
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 25MB
+      max-request-size: 25MB
+  application:
+    name: ws-bigquery-decode
+
+logging:
+  path: D:\Develop\BigQueryDecode
+  file: decode.log
+  level:
+    root: INFO
+
+server:
+  port:  8080
+

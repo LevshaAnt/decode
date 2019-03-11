@@ -1,0 +1,38 @@
+2019-03-12 00:02:13.351  INFO 6924 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-12 00:02:13.356  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-03-12 00:02:13.362  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-03-12 00:07:23.185  WARN 6924 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-03-12 00:08:24.326  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.rest.DecodeController  : Strings for decode [1, 1, 1, 1, 1, 23, 123, 13, 13], count 9
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 23
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 123
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:08:24.329  INFO 6924 --- [http-nio-8080-exec-2] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:09:01.194  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.rest.DecodeController  : Strings for decode [1, 1, 1, 1, 1, 23, 123, 13, 13], count 9
+2019-03-12 00:09:01.195  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:01.195  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 23
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 123
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:09:01.196  INFO 6924 --- [http-nio-8080-exec-3] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.rest.DecodeController  : Strings for decode [1, 1, 1, 1, 1, 23, 123, 13, 13], count 9
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 23
+2019-03-12 00:09:21.738  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 123
+2019-03-12 00:09:21.739  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:09:21.739  INFO 6924 --- [http-nio-8080-exec-6] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 13
+2019-03-12 00:09:30.943  WARN 6924 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required List parameter 'manyString' is not present]
+2019-03-12 00:10:27.510  WARN 6924 --- [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required List parameter 'manyString' is not present]
+2019-03-12 00:10:28.807  INFO 6924 --- [http-nio-8080-exec-8] r.a.bigQueryDecod.rest.DecodeController  : String for decode 1
+2019-03-12 00:10:28.808  INFO 6924 --- [http-nio-8080-exec-8] r.a.bigQueryDecod.utils.UtilsDecode      : Encode string 1

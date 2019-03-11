@@ -1,0 +1,22 @@
+curl -F file=@"D:\\data.txt" http://localhost:8080/upload/
+curl -F separator="," -F position="2" -F file=@"D:\\data.txt"  http://localhost:8080/upload/modelFile/
+
+
+    private String separator;
+
+    private int position;
+
+    private MultipartFile file;
+}
+
+
+
+
+curl -F file=@"D:\\Develop\BigQueryDecode\data.txt" http://localhost:8080/upload/
+
+D:\Develop\BigQueryDecode
+
+
+
+curl -F separator="," -F position="1" -F file=@"D:\\Develop\BigQueryDecode\data.txt"  http://localhost:8080/upload/modelFile/ -o "D:\\Develop\BigQueryDecode\output.txt"
+curl -F file=@"D:\\Develop\BigQueryDecode\data.txt" http://localhost:8080/upload/ -o "D:\\Develop\BigQueryDecode\output.txt"
